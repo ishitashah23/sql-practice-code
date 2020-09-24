@@ -7,7 +7,7 @@ With increasing use of several relational database management systems in all org
 Firstly, I plan to work through the popular O'Reilly SQL reference book - “Learning SQL, Third Edition, by Alan Beaulieu. Copyright 2020 Alan Beaulieu”. The script files are uploaded in different chapter-wise folders for ease of reference. After gaining some familiarity with the syntax, I will start working through practice examples on online learning portals like HackerRank
 
 ## HackerRank Progress
-Earned 3rd star and reached the silver level after practicing easy level queries on - basic select, advanced select and joins. </br>
+Earned 4th star and reached the silver level after practicing easy level queries on - basic select, aggregation and basic joins. </br>
 My account - https://www.hackerrank.com/shah_ishita23
 
 ## Built with 
